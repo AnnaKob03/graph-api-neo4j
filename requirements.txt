@@ -1,0 +1,13 @@
+certifi
+charset-normalizer
+idna
+requests
+urllib3
+neo4j
+fastapi
+pydantic
+neomodel
+pytest
+python-dotenv
+httpx
+uvicorn
